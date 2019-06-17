@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(298): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(315): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(317): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(318): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(497): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(498): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(502): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(503): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(505): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(506): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(515): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  OpenGL_Demo.vcxproj -> C:\C++ Working Space\Testing\OpenGL_Demo\Debug\OpenGL_Demo.exe
