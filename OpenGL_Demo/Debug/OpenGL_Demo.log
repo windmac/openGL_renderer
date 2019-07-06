@@ -1,13 +1,26 @@
 ﻿  main.cpp
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(298): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(315): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(317): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(318): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(497): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(498): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(502): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(503): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(505): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(506): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
-c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(515): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(509): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(537): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(539): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(540): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(567): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(568): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(575): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(576): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(597): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(598): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(605): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(606): warning C4305: “参数”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(882): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(883): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(887): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(888): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(890): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(891): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(900): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(1032): warning C4305: “初始化”: 从“double”到“float”截断
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(1073): warning C4018: “<”: 有符号/无符号不匹配
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(1097): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(1099): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+c:\c++ working space\testing\opengl_demo\opengl_demo\main.cpp(1101): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
   OpenGL_Demo.vcxproj -> C:\C++ Working Space\Testing\OpenGL_Demo\Debug\OpenGL_Demo.exe
